@@ -1,7 +1,7 @@
-## Expected behavior
+#### Expected behavior
 
-## Actual behavior
+#### Actual behavior
 
-## Steps to reproduce the behavior
+#### Steps to reproduce the behavior
 
-## Other specifications
+#### Other specifications
